@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.fullherosection{
+
+    background: url("../public/NFT.webp");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
